@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BirdieOu
 - 👀 I’m interested in language, culture, philosophy(stoicism), psychology(of the criminal mind), comedy writing and visual arts.
-- 🌱 I’m currently teaching myself JavaScript and Dart(Flutter). In the meanting I am taking Google UX Design Professional Certificate courses. 
+- 🌱 I’m currently teaching myself JavaScript and Dart(Flutter). Also I am taking Google UX Design Professional Certificate courses on Coursera. 
 - 💞️ I am looking for a computer programming and/or UX/UI design mentor. As a fluent Mandarin Chinese speaker, I can teach you Chinese in return. 
 - 📫 You can find me on Instagram @birdie_ou
 
